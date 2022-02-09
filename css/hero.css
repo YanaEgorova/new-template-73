@@ -5,7 +5,7 @@
 .hero {
     padding: 50rem 0 15rem;
     position: relative;
-    z-index: 99;
+    z-index: 12;
 }
 .hero .title {
     color: var(--sub-text-color);
