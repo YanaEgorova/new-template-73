@@ -123,7 +123,7 @@
   transform: translate(-50%, -47%);
 }
 .footer__wrapper .container {
-  padding: 0 7rem;
+  padding: 0 13rem;
 }
 .footer__title, .footer .text, .footer__link, .footer__logo, .footer .social-link {
   color: var(--sub-text-color);
