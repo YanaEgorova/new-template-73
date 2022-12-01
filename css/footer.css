@@ -102,10 +102,11 @@
   height: 90%;
   width: 90%;
   max-width: 170rem;
-  background-image: url('../img/bg.jpeg');
+  /* background-image: url('../img/bg.jpeg');
   background-repeat: no-repeat;
   background-position: 0 0;
-  background-size: cover;
+  background-size: cover; */
+  background-color: var(--third-brand-color);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -47%);

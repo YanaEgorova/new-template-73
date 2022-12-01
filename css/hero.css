@@ -22,10 +22,11 @@
 }
 @media screen and (min-width: 1024px) {
     .hero__wrapper::after {
-        background-image: url('../img/bg.jpeg');
+        /* background-image: url('../img/bg.jpeg');
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: 0 0;
+        background-position: 0 0; */
+        background-color: var(--third-brand-color);
         width: 95rem;
         height: 95rem;
         display: block;
